@@ -14,7 +14,7 @@ The "Laptop Price Prediction" project employs machine learning to forecast lapto
  
 Skills Used -> `Python`, `Pandas`, `Numpy`, `Matplotlib`, `Seaborn`.
 
-[Source_Code][Source_Code]
+[Source_Code][Laptop]
 
 <hr>
 
@@ -24,7 +24,7 @@ I developed machine learning models to predict medical expenses using Linear Reg
 
 Skills Used -> `Python`, `Pandas`, `Numpy`, `Matplotlib`, `Seaborn`.
 
-[[Source_Code][Source_Code]]
+[Source_Code][Medical]
 
 <hr>
 
@@ -34,12 +34,14 @@ This project aims to predict house prices using machine learning, considering fa
 
 Skills Used -> `Python`, `Pandas`, `Numpy`, `Matplotlib`, `Seaborn`.
 
-[[Source_Code][Source_Code]]
+[Source_Code][House]
 
 <hr>
 
-[Source_Code]: https://github.com/Naresh311202/Apple-Quality-ML-DataScience-Project
-[Source_Code]: https://github.com/Naresh311202/Laptop-Price-prediction
-[Source_Code]: https://github.com/Naresh311202/Medical-Cost-Prediction
-[def]: https://github.com/Naresh311202/Housing-Pricr-Prediction/tree/main
+
 [def2]: https://github.com/Naresh311202/Apple-Quality-ML-DataScience-Project
+
+[Laptop]: https://github.com/Naresh311202/Laptop-Price-prediction
+
+[Medical]: https://github.com/Naresh311202/Medical-Cost-Prediction
+[House]: https://github.com/Naresh311202/Housing-Pricr-Prediction/tree/main
