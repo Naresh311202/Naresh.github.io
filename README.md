@@ -6,7 +6,7 @@ Skills Used -> `Python`, `Pandas`, `Numpy`, `Matplotlib`, `Seaborn`.
 
 <img src="img/images.jpg >
 
-[[Source_Code](https://github.com/Naresh311202/Apple-Quality-ML-DataScience-Project)]
+[Source_Code](https://github.com/Naresh311202/Apple-Quality-ML-DataScience-Project)
 <hr>
 
 ### Laptop Price Prediction
