@@ -6,7 +6,7 @@ Skills Used -> `Python`, `Pandas`, `Numpy`, `Matplotlib`, `Seaborn`.
 
 <img src="img/images.jpg >
 
-[Source_Code](https://github.com/Naresh311202/Apple-Quality-ML-DataScience-Project)
+[Source_Code][def2]
 <hr>
 
 ### Laptop Price Prediction
@@ -42,3 +42,4 @@ Skills Used -> `Python`, `Pandas`, `Numpy`, `Matplotlib`, `Seaborn`.
 [Source_Code]: https://github.com/Naresh311202/Laptop-Price-prediction
 [Source_Code]: https://github.com/Naresh311202/Medical-Cost-Prediction
 [def]: https://github.com/Naresh311202/Housing-Pricr-Prediction/tree/main
+[def2]: https://github.com/Naresh311202/Apple-Quality-ML-DataScience-Project
