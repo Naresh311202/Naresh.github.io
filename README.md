@@ -1,4 +1,3 @@
-usgdiugbsdkli
 ## Selected projects in Machine Learning 
 ### Apple Quality Prediction 
 I developed a machine learning model for apple Quality Prediction, utilizing Python with Scikit-learn, Pandas, Numpy for preprocessing,feature engineering and model development. Employed Random Forest,Linear model and Support Vector Machine algorithms for classification tasks. Achieving 88.23% accuracy on the test datasets. Demonstrated proficiency in ML techniques, data analysis and model evaluation.
