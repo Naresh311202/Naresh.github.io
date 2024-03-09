@@ -10,7 +10,7 @@ Skills Used -> `Python`, `Pandas`, `Numpy`, `Matplotlib`, `Seaborn`.
 <hr>
 
 ### Laptop Price Prediction
-I developed a machine learning model for laptop price prediction using features like brand, processor type, RAM, storage, screen size and graphics.Employed Python libaries (Scikit-learn, Numpy, pandas) for preprocessing and model building, employing algorithms such as Random Forest.Achieved through analysis, features selection, cross-validation and hyperparameter turning. Demonstrated proficiency in ML, preprocessing, model evaluation, applicable in e-commerce pricing and market analysis.
+The "Laptop Price Prediction" project employs machine learning to forecast laptop prices accurately. It collects and preprocesses extensive laptop data to train a predictive model. Features like processor type, RAM, and brand reputation are carefully engineered for analysis. With an accuracy rate of 65.84%, the model empowers consumers to make informed purchasing decisions and assists retailers in pricing strategies. Using Python and machine learning frameworks, it provides valuable market insights and optimization opportunities. Future enhancements may include integrating additional features and deploying the model as a web application. This project represents a significant advancement in leveraging machine learning for predicting laptop prices, benefiting both consumers and retailers.
  
 Skills Used -> `Python`, `Pandas`, `Numpy`, `Matplotlib`, `Seaborn`.
 
@@ -20,7 +20,7 @@ Skills Used -> `Python`, `Pandas`, `Numpy`, `Matplotlib`, `Seaborn`.
 
 ### Medical Cost Prediction
 
-I developed machine learning models to predict medical expenses using Linear Regression and Random Forest. Achieved 73% accuracy with Linear Regression and 82% with Random Forest. Models evaluated using MAE, MSE, and R-squared metrics. Random Forest model showcased superior performance and provided insightful feature importance analysis. Advancing healthcare cost estimation for improved planning and decision-making.
+I developed machine learning models to predict medical expenses using Linear Regression and Random Forest. Achieved 73.11% accuracy with Linear Regression and 83.06% with Random Forest. Models evaluated using MAE, MSE, and R-squared metrics. Random Forest model showcased superior performance and provided insightful feature importance analysis. Advancing healthcare cost estimation for improved planning and decision-making.
 
 Skills Used -> `Python`, `Pandas`, `Numpy`, `Matplotlib`, `Seaborn`.
 
@@ -28,7 +28,17 @@ Skills Used -> `Python`, `Pandas`, `Numpy`, `Matplotlib`, `Seaborn`.
 
 <hr>
 
+### House Price Prediction 
+
+This project aims to predict house prices using machine learning, considering factors like square footage, bedrooms, bathrooms, neighborhood types, and construction year. Three baseline models were employed: Linear Regression, RandomForestClassifier, and Ridge Regression. The models achieved accuracies of 57% (Linear and Ridge) and 51% (RandomForestClassifier). Insights include the effectiveness of linear models, challenges in feature engineering, and potential for improvement with advanced algorithms. Future enhancements may involve exploring ensemble methods and incorporating additional datasets for better predictions.
+
+Skills Used -> `Python`, `Pandas`, `Numpy`, `Matplotlib`, `Seaborn`.
+
+[[Source_Code][Source_Code]]
+
+<hr>
 
 [Source_Code]: https://github.com/Naresh311202/Apple-Quality-ML-DataScience-Project
 [Source_Code]: https://github.com/Naresh311202/Laptop-Price-prediction
 [Source_Code]: https://github.com/Naresh311202/Medical-Cost-Prediction
+[def]: https://github.com/Naresh311202/Housing-Pricr-Prediction/tree/main
