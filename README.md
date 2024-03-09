@@ -4,7 +4,7 @@ I developed a machine learning model for apple Quality Prediction, utilizing Pyt
 
 Skills Used -> `Python`, `Pandas`, `Numpy`, `Matplotlib`, `Seaborn`.
 
-<img scr="img/dataset-cover.jpeg"/>
+<img scr="img/images.jpg?raw=true"/>
 
 [Source_Code][Source_Code]
 <hr>
