@@ -14,6 +14,8 @@ The "Laptop Price Prediction" project employs machine learning to forecast lapto
  
 Skills Used -> `Python`, `Pandas`, `Numpy`, `Matplotlib`, `Seaborn`.
 
+![laptop](img/laptop.jpg)
+
 [Source_Code][Laptop]
 
 <hr>
@@ -24,6 +26,8 @@ I developed machine learning models to predict medical expenses using Linear Reg
 
 Skills Used -> `Python`, `Pandas`, `Numpy`, `Matplotlib`, `Seaborn`.
 
+![medical](img/download.jpg)
+
 [Source_Code][Medical]
 
 <hr>
@@ -33,6 +37,8 @@ Skills Used -> `Python`, `Pandas`, `Numpy`, `Matplotlib`, `Seaborn`.
 This project aims to predict house prices using machine learning, considering factors like square footage, bedrooms, bathrooms, neighborhood types, and construction year. Three baseline models were employed: Linear Regression, RandomForestClassifier, and Ridge Regression. The models achieved accuracies of 57% (Linear and Ridge) and 51% (RandomForestClassifier). Insights include the effectiveness of linear models, challenges in feature engineering, and potential for improvement with advanced algorithms. Future enhancements may involve exploring ensemble methods and incorporating additional datasets for better predictions.
 
 Skills Used -> `Python`, `Pandas`, `Numpy`, `Matplotlib`, `Seaborn`.
+
+![house](img/house.jpg)
 
 [Source_Code][House]
 
