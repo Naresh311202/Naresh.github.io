@@ -4,9 +4,9 @@ I developed a machine learning model for apple Quality Prediction, utilizing Pyt
 
 Skills Used -> `Python`, `Pandas`, `Numpy`, `Matplotlib`, `Seaborn`.
 
-<img scr="img/images.jpg?raw=true"/>
+<img src="img/images.jpg >
 
-[Source_Code][Source_Code]
+[[Source_Code](https://github.com/Naresh311202/Apple-Quality-ML-DataScience-Project)]
 <hr>
 
 ### Laptop Price Prediction
